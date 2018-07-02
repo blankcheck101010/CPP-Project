@@ -3,3 +3,7 @@
 
 # compiled output from c++
 *.o
+
+/CPP.sublime-project
+
+/CPP.sublime-workspace
