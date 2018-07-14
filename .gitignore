@@ -1,2 +1,9 @@
+# Type in the directory, and/or filetype to ignore
+*.DS_Store
 
+# compiled output from c++
 *.o
+
+/CPP.sublime-project
+
+/CPP.sublime-workspace
